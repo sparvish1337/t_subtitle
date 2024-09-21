@@ -1,5 +1,5 @@
 # FiveM Subtitle Script (chatgpt wrote this message)
-
+https://streamable.com/6gwahf
 This resource provides a dynamic subtitle system for **FiveM** using the **Mantine** UI library and **ox_lib** zones. It displays subtitles when players enter predefined zones, such as spheres or boxes, with customizable titles and placeholder text.
 
 ## Features
