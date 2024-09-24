@@ -1,4 +1,4 @@
-# FiveM Subtitle Script (chatgpt wrote this message)
+# FiveM Subtitle Script
 https://streamable.com/6gwahf
 This resource provides a dynamic subtitle system for **FiveM** using the **Mantine** UI library and **ox_lib** zones. It displays subtitles when players enter predefined zones, such as spheres or boxes, with customizable titles and placeholder text.
 
@@ -18,7 +18,7 @@ This resource provides a dynamic subtitle system for **FiveM** using the **Manti
 1. Clone or download this repository into your `resources` folder.
    
    ```bash
-   git clone https://github.com/your-repo/fivem-subtitle-script.git
+   git clone https://github.com/sparvish1337/t_subtitle.git
    ```
 
 2. Ensure the resource in your `server.cfg`:
